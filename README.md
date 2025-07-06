@@ -1,5 +1,5 @@
 # demoCy
-##Just learning
+#Just learning
 <br>
 <h1>Day one of learning</h1>
 <hr>
